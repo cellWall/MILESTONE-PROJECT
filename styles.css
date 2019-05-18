@@ -1,0 +1,23 @@
+/* body has to have a black BackgroUNd*/
+body {
+    background-color: black;
+}
+ 
+/* al fonts will be white */
+#author {
+    color: white; 
+    font-size: 20px;
+}
+
+#quote {
+    color: white;
+    font-size: 30px;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+
+/* margin it to the middle */
